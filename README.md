@@ -15,8 +15,8 @@ This project is a web dashboard for managing products and users, built using the
 ### 1. Repository Cloning
 
 ```bash
-git clone [Your Repository]
-cd [Your Repository]
+git clone https://github.com/TelychkoFoundation/online-store-dashboard
+cd online-store-dashboard
 ```
 ### 2. Installing Dependencies
 ```bash
